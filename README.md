@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🌱 I’m currently learning how to make a web app
+- ⚡ Fun fact: The Majority of Earth’s Oxygen Is Produced by Oceans 
+                Have you ever thought of where oxygen comes from? Most of us believe that we get oxygen from trees but you might not know that
+                more than half of the earth’s oxygen that we breathe comes from oceans.
+                Various scientists estimate that 50%-80% of the earth’s oxygen is produced by the oceans. The majority of this production is
+                from plant-based marine organisms. Oceanic plankton, algae, seaweed,and some bacteria can photosynthesize & produce more than
+                half of the world’s oxygen.
 
 <!--
 **KhanhTaiTran/KhanhTaiTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
